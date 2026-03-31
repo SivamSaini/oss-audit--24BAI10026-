@@ -69,7 +69,7 @@ chmod +x *.sh
 #### Script 4
 
 ```bash
-./script4_log_analyzer.sh sample.log error
+./script4_log_analyzer.sh sample.log WARNING
 ```
 
 #### Script 5
